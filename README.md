@@ -30,3 +30,13 @@
 - [ ] [Bônus — De Aspirante a Programador ao Desenvolvedor Sênior.](#)
 - [ ] [Lives.](#)
 - [ ] [Produtividade no Android Studio.](#)
+
+## INFORMAÇÕES
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.curso-de-android-express "Total de Visitas")
+
+- Versões:
+  - (1.0) Java.
+  - (2.0) Java Atualizando.
+  - (3.0) Kotlin.
+  - (4.0) Kotlin Atualizando.
