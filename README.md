@@ -1,55 +1,66 @@
-# CURSO DE ANDROID EXPRESS
+<!-- TITLE -->
+# Curso de Android Express
 
-***Módulos:***
+***Conteúdo do Curso:***
 
-<!-- - [ ] Bem-vindo + Recados Importantes. -->
-<!-- - [ ] Preparação. -->
-<!-- - [ ] Fundação do Ambiente. -->
-<!-- - [ ] Fundação do SDK Android. -->
-<!-- - [ ] Containers de Layouts. -->
-<!-- - [ ] Fundação do Android Dinâmico. -->
-<!-- - [ ] Formulários, Coleções e Estilos (2.0). -->
-<!-- - [ ] Banco de Dados Local (2.0). -->
-<!-- - [ ] NetflixApp — Prototipagem e Modelagem. -->
-<!-- - [ ] NetflixApp — Detalhes e Filmes Similares. -->
-<!-- - [ ] NetflixApp — Requisição Web e API. -->
-<!-- - [ ] Tarefas em Background (1.0). -->
-<!-- - [ ] Dominando a Linguagem Java. -->
-<!-- - [ ] JokeApp — Framewoks Modernos (2.0). -->
-<!-- - [ ] InstagramApp — UI Avançada (2.0). -->
-<!-- - [ ] InstagramApp — Lógica Avançada (2.0). -->
-<!-- - [ ] InstagramApp — Produção (2.0). -->
-<!-- - [ ] Dominando a Linguagem Kotlin. -->
-<!-- - [ ] Modernizando Projetos com Kotlin. -->
-<!-- - [ ] JokeApp — Frameworks Modernos (3.0). -->
-<!-- - [ ] InstagramApp — UI Avançada (3.0). -->
-<!-- - [ ] InstagramApp — Lógica Avançada (3.0). -->
-<!-- - [ ] InstagramApp — Produção (3.0). -->
-<!-- - [ ] YouTubeApp — Players de Video e Animações. -->
-<!-- - [ ] Extra — As Ferramentas Android (2.0). -->
-<!-- - [ ] Bônus — De Aspirante a Programador ao Desenvolvedor Sênior. -->
-<!-- - [ ] Lives. -->
-<!-- - [ ] Produtividade no Android Studio. -->
+<!-- TABLE OF CONTENTS -->
+## TABELA DE CONTEÚDO
 
+<!-- * [Vista por cima](#vista-por-cima) -->
+<!--  * [Foto da tela](#foto-da-tela) -->
+<!--  * [Links](#links) -->
+<!-- * [Meu processo](#meu-processo) -->
+<!--  * [Construído com](#construido-com) -->
+<!--  * [O que aprendi](#o-que-aprendi) -->
+<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  * [Recuso úteis](#recursos-úteis) -->
+<!-- * [Autor](#autor) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
+* [Informações](#informações)
+
+<!-- OVERVIEW -->
+<!-- ## VISTA POR CIMA -->
+
+<!-- SCREENSHOT -->
+<!-- ### FOTO DA TELA -->
+
+<!-- LINKS -->
+<!-- ### LINKS -->
+
+<!-- MY PROCESS -->
+<!-- ## MEU PROCESSO -->
+
+<!-- BUILT WITH -->
+<!-- ### CONSTRUÍDO COM -->
+
+<!-- WHAT I LEARNED -->
+<!-- ### O QUE APRENDI -->
+
+<!-- CONTINUED DEVELOPMENT -->
+<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+
+<!-- USEFUL RESOURCES -->
+<!-- ### RECURSOS ÚTEIS -->
+
+<!-- AUTHOR -->
+<!-- ## AUTOR -->
+
+<!-- ACKNOWLEDGMENTS -->
+<!-- ## AGRADECIMENTOS -->
+
+<!-- INFORMATION -->
 ## INFORMAÇÕES
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.curso-de-android-express "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-and-exp&label=VISITANTES&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/curso-de-android-express?style=social "Total de Observadores")
+![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cur-and-exp?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/curso-de-android-express?style=social "Total de Estrelas Recebidas")
+![stars](https://img.shields.io/github/stars/Devsgeeknerd/cur-and-exp?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/curso-de-android-express?style=social "Total de Forks")
+![forks](https://img.shields.io/github/forks/Devsgeeknerd/cur-and-exp?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/curso-de-android-express?style=social "Tamanho do Repositório")
+![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/cur-and-exp?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/curso-de-android-express?style=social "Licença do Repositório")
-
-
-- Versões:
-  - (1.0) Java.
-  - (2.0) Java Atualizando.
-  - (3.0) Kotlin.
-  - (4.0) Kotlin Atualizando.
+![license](https://img.shields.io/github/license/Devsgeeknerd/cur-and-exp?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
